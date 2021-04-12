@@ -14,3 +14,4 @@ You can also simply indent your code by four spaces:
       if(arg) {
         $.facebox({div:'#foo'})
       }
+3
