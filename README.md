@@ -6,3 +6,4 @@
 3. Playing sports
 ![image](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset-1200x630.jpg)
 [read01](https://motaser.github.io/reading-notes/read01)
+1
