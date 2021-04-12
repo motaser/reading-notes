@@ -6,5 +6,6 @@ my name is montaser araidah and i am taking alisons in software devloper and we 
 2. Emphasis *This text will be italic*
 _This will also be italic_
 3. Lists * Item 1
-4. Images
+4. Images ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
  
