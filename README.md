@@ -7,3 +7,4 @@ my name is montaser araidah and i am taking alisons in software devloper and we 
 3. Playing sports
 ![image](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset-1200x630.jpg)
 [read01](https://motaser.github.io/reading-notes/read01)
+[read02](https://motaser.github.io/reading-notes/read02)
