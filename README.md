@@ -1,3 +1,4 @@
+my name is montaser araidah and i am taking alisons in software devloper and we will talk about mastering markd
 # Growth mindset
 ## growth mindset is abilite to developed through perseverance and effort
 # **how to keep myself in a growth mindset**
