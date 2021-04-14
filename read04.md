@@ -23,5 +23,6 @@ quantity:varible nam
 * string for example **var username = 'MONTASER' ;**
 * number for examle ** var age = 26 ;**
 * boolean for example ** var love montaser = true;**
+* thx
 
 
