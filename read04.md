@@ -21,8 +21,8 @@ quantity:varible nam
 1 it a variable valu
 ### below we will show some avariabl statement:
 * string for example **var username = 'MONTASER' ;**
-* number for examle ** var age = 26 ;**
-* boolean for example ** var love montaser = true;**
+* number for examle **var age = 26 ;**
+* boolean for example **var love montaser = true;**
 * thx
 
 
