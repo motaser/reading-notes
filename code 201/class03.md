@@ -72,4 +72,4 @@ A switch statement starts with a variable called the switch value. Each case ind
 **TRUTHY & FALSY VALUES**
 Due to type coercion, every value in JavaScript
 can be treated as if it were true or false; and
-this has some interesting side effects.
+this has some interesting side effects..
