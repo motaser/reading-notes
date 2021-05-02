@@ -16,13 +16,13 @@ This web site is to submit the read part of our corses.
 # Code 201 Reading Notes
 | class        | Description |
 | -----------  | ----------- |
-| class01      | [class01] (code201/class01)|
+| class01      | [class01 ] (code201/class01)|
 | class02      | [class02 ](code201/class02)|
 | class03      | [class03 ](code201/class03) |
 | class04      | [class04 ](code201/class04) |
 | class05      | [class05 ](code201/class05)|
 | class06      | [class06 ](code201/class06) |
-| class07      | [class07 ] |
+| class07      | [class07 ](code201/class07) |
 | class08      | [class08 ] |
 | class09      | [class09 ] |
 | class10      | [class10 ] |
