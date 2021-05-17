@@ -3,7 +3,7 @@ This web site is to submit the read part of our corses.
 # Code 102 Reading Notes
 | read      | Description |
 | ----------- | ----------- |
-| read01      | [read01] (code102/read01)  |
+| read01      | [read01] (code102/read01.md)  |
 | read02      | [read02] (code102/read02)  |
 | read03      | [read03] (code102/read03)  |
 | read04      | [read04] (code102/read04)  |
