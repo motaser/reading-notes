@@ -29,8 +29,8 @@ This web site is to submit the read part of our corses.
 | class11      | [class11 ](code201/class011) |
 | class12      | [class12 ](code201/class012)|
 | class13      | [class13 ](code201/class013) |
-| class14      | [class14 ] |
-| class1       | [class15 ] |
+| class14      | [class14 ](code201/class014a) |
+| class1       | [class15 ](code201/class014b) |
 
 
 
