@@ -33,13 +33,13 @@ This web site is to submit the read part of our corses.
 | class14      | [class14 ](code201/class014a) |
 | class1       | [class15 ](code201/class014b) |
 
-# Code 201 Reading Notes
+# Code 301 Reading Notes
 
 | class        | Description |
 | -----------  | ----------- |
 | class01      | [class01 ](code301/class01) |
-| class02      |  |
-| class03      |  |
+| class02      | [class01 ](code301/class02) |
+| class03      | [class01 ](code301/class03) |
 | class04      |  |
 | class05      |  |
 | class06      |  |
