@@ -40,8 +40,8 @@ This web site is to submit the read part of our corses.
 | class01      | [class01 ](code301/class01) |
 | class02      | [class01 ](code301/class02) |
 | class03      | [class01 ](code301/class03) |
-| class04      |  |
-| class05      |  |
+| class04      | [class01 ](code301/class04) |
+| class05      | [class01 ](code301/class05) |
 | class06      |  |
 | class07      |  |
 | class08      |  |
